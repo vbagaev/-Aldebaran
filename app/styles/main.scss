@@ -1,30 +1,8 @@
-//common colors
-$white-bg: #f6f6f6;
-$blue-btn: #33c1e3;
-$red-dnl: #e85f61;
-$col-p: #646464;
-$heders-footer: #414141;
+//@import "_misc/fonts";
+//@import "_misc/mixins";
+//@import "_misc/adjustment_and_layout";
 
-// layout vars
-$container-width: 940px;
-$footer-height: 50px;
+//@import "sections/header";
+//@import "sections/content";
 
-
-
-
-
-
-
-
-//mixins and fonts
-@import "_misc/mixins";
-@import "_misc/fonts";
-
-// adjustment and layout
-@import "_misc/adjustment_and_layout";
-
-//sections
-@import "sections/header";
-@import "sections/content";
-@import "sections/footer";
-
+//@import "_misc/responsive";
